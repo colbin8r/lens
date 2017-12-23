@@ -1,0 +1,8 @@
+{
+  "name": "lens",
+  "app_id": "ba92013a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
